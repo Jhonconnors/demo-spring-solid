@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: demo-solid
+app:
+  order:
+    service:
+      sms: 0
+      email: 1
+
