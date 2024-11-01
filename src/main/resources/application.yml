@@ -1,6 +1,10 @@
 spring:
   application:
     name: demo-solid
+#    the next value show the console with colors
+  output:
+    ansi:
+      enabled: ALWAYS
 app:
   order:
     service:
