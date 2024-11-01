@@ -5,9 +5,5 @@ spring:
   output:
     ansi:
       enabled: ALWAYS
-app:
-  order:
-    service:
-      sms: 0
-      email: 1
+
 
